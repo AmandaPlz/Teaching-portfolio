@@ -1,4 +1,4 @@
-# Teaching-portfolio
+# Teaching-portfolio_Week_1
 Teaching K-12 kids computational thinking
 
 Check out my Youtube video! 
