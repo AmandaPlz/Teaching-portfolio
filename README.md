@@ -14,3 +14,5 @@ https://youtu.be/fUwMjMzaCvI Check out my Youtube Channel, I am teaching how rep
 # Teaching-portfolio_Week_3
 https://youtu.be/J8_TlK173m4
 Check out my tutorial on Nested Loops!
+https://youtu.be/2_zfMASJeLQ
+Check out my tutorial on how to make different events happen in a program!! 
