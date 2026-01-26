@@ -18,6 +18,15 @@ Check out my tutorial on Nested Loops!
 https://youtu.be/2_zfMASJeLQ
 Check out my tutorial on how to make different events happen in a program!! 
 
+
 # Teaching-portfolio_Week_4
 https://youtu.be/r0-wj-YqCFA
 Check out my tutorial on the topic of Variables! 
+
+
+
+
+
+# Teaching-portfolio_Week_5
+https://youtu.be/8POy7m38xX0
+Check out my tutorial on the topic of conditional loops!!
