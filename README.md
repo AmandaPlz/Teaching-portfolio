@@ -38,3 +38,7 @@ check out my tutorial on the topic of If-else statements!
 https://youtu.be/ey8XcSim6AY
 check out my tutorial on the topic of Nested If-else!
 
+# Teaching-portfolio_Week_8
+https://youtu.be/LyFvT2gimUs
+check out my tutorial on the topic of Compound Conditionals!
+
