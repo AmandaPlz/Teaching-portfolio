@@ -42,3 +42,7 @@ check out my tutorial on the topic of Nested If-else!
 https://youtu.be/LyFvT2gimUs
 check out my tutorial on the topic of Compound Conditionals!
 
+# Teaching-portfolio_Week_9
+https://youtu.be/ED6Epm1HT8c
+check out my tutorial on the topic of Abstractions!
+
