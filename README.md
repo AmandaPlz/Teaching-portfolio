@@ -46,3 +46,6 @@ check out my tutorial on the topic of Compound Conditionals!
 https://youtu.be/ED6Epm1HT8c
 check out my tutorial on the topic of Abstractions!
 
+# Teaching-portfolio_Week_10
+https://youtu.be/ED6Epm1HT8c
+check out my tutorial on the topic of Abstractions!
