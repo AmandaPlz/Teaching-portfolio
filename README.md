@@ -47,5 +47,5 @@ https://youtu.be/ED6Epm1HT8c
 check out my tutorial on the topic of Abstractions!
 
 # Teaching-portfolio_Week_10
-https://youtu.be/ED6Epm1HT8c
-check out my tutorial on the topic of Abstractions!
+https://youtu.be/Hcghy-rSfk8
+check out my tutorial on the topic of Lists!
